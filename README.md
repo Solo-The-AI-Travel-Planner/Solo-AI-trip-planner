@@ -1,0 +1,1 @@
+# Solo-AI-trip-planner
